@@ -1,0 +1,16 @@
+Crie uma classe Produto com:
+
+nome
+preco
+estoque
+
+Todos os atributos devem ser private.
+
+Depois implemente:
+
+um construtor para inicializar os atributos;
+getters para todos os atributos;
+um setter apenas para o preço, aceitando apenas valores maiores que zero;
+um método vender(int quantidade) que diminui o estoque apenas se houver quantidade suficiente.
+
+No main, crie um produto, tente alterar seus dados usando os métodos disponíveis e observe que os atributos não podem ser acessados diretamente.
