@@ -1,0 +1,11 @@
+Crie a seguinte hierarquia:
+    Pessoa
+        - Aluno
+        - Professor
+
+    Pessoa tem 'nome' e 'idade'
+    Aluno tem 'matricula'
+    Professor tem 'disciplina'
+
+No Main, crie um objeto de cada tipo
+    Utilize tanto membros herdados como específicos de cada classe
