@@ -1,0 +1,4 @@
+Crie:
+    Veiculo --> ligar()
+    Carro --> "Carro ligado"
+    Moto --> "Moto ligada"
