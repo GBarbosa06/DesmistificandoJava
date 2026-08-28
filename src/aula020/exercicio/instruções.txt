@@ -1,0 +1,16 @@
+crie:
+    interface "Ligavel"
+        metodos ligar() e desligar();
+
+    interface "Conectavel"
+        metodo conectarInternet();
+
+    classes:
+        Televisão
+        Celular
+        Computador
+            TODAS LIGAVEIS
+            CELULAR E COMPUTADOR CONECTAVEIS
+
+percorra na classe Main, um array com cada uma delas, chamando seus metodos (ligar())
+crie outra array, apenas com os conectaveis
