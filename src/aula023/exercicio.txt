@@ -1,0 +1,8 @@
+Crie uma classe Aluno(String nome, double nota)
+Main - Use ArrayList para alunos
+1. adicionar pelo menos 5 alunos;
+2. exibir todos;
+3. exibir a quantidade de alunos;
+4. alterar a nota de um aluno;
+5. remover um aluno;
+6. verificar se determinado aluno está na lista.
