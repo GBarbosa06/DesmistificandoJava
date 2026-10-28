@@ -1,0 +1,23 @@
+# Principais conceitos revisados:
+
+- POO:
+  - Encapsulamento
+  - Herança
+  - Polimorfismo
+  - Classes Abstratas
+  - Interfaces
+- Classe Object
+  - toString()
+  - equal()
+  - hashCode()
+- Arrays e Collections
+  - ArrayList
+  - HashSet
+- Map
+  - HashMap
+- Ordenação
+  - Comparable
+  - Comparator
+  - sort()
+- Iterator
+  - Percorrer e remover de maneira segura
